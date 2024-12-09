@@ -19,7 +19,7 @@
     console.log(typeof weather);
     console.log(typeof copies);
     console.log(typeof bankBalance);
-    
+
 
 // 2. Non-primitive or (Reference type) : array, objects, functions.
 
